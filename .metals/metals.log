@@ -7,3 +7,216 @@ SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@7435
 SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
 SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@465135d8]
 2024.10.18 11:49:24 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.10.18 12:19:52 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:19:53 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:22:13 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:22:18 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:27:17 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:27:23 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:27:27 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:33:46 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:34:07 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:34:09 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:34:09 WARN  no build target for: C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala
+2024.10.18 12:34:09 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:34:09 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:34:14 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:34:14 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:34:16 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:34:16 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:34:17 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:34:17 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:34:18 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:34:19 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:34:21 WARN  no build target for: C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala
+2024.10.18 12:34:21 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:34:21 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:34:27 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:34:30 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:34:32 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:34:32 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:34:33 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:34:33 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:34:33 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:34:33 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:34:34 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:34:34 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:34:34 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:34:34 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:34:35 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:34:36 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:34:36 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:34:36 WARN  no build target for: C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala
+2024.10.18 12:34:36 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:35:12 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:35:13 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:35:13 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:35:13 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:35:15 WARN  no build target for: C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala
+2024.10.18 12:35:15 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:35:15 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:35:30 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:36:42 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:37:44 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:37:44 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:37:45 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:37:46 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:37:46 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:37:46 WARN  no build target for: C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala
+2024.10.18 12:37:46 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:37:46 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:38:02 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:38:08 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:39:02 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:39:18 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:39:18 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:39:39 INFO  Shutting down server
+2024.10.18 12:39:39 INFO  shutting down Metals
+2024.10.18 12:39:39 INFO  Exiting server
+2024.10.18 12:40:24 INFO  Started: Metals version 1.3.5 in folders 'C:\Users\Niklas\Studium\Semester6\SE\Minesweeper' for client Visual Studio Code 1.94.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@2aa63496]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@28ffb32e]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@2aa63496]
+2024.10.18 12:40:24 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.10.18 12:40:29 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Okt. 18, 2024 12:40:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+Okt. 18, 2024 12:40:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+Okt. 18, 2024 12:40:29 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.10.18 12:42:32 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:42:49 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:42:52 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:42:54 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:42:54 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:42:56 WARN  no build target for: C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala
+2024.10.18 12:42:56 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:42:56 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Okt. 18, 2024 12:43:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "git:/c%3A/Users/Niklas/Studium/Semester6/SE/Minesweeper/src/main/scala/de/htwg/se/minesweeper/Minesweeper.scala?%7B%22path%22%3A%22c%3A%5C%5CUsers%5C%5CNiklas%5C%5CStudium%5C%5CSemester6%5C%5CSE%5C%5CMinesweeper%5C%5Csrc%5C%5Cmain%5C%5Cscala%5C%5Cde%5C%5Chtwg%5C%5Cse%5C%5Cminesweeper%5C%5CMinesweeper.scala%22%2C%22ref%22%3A%22%22%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "git" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:698)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+Okt. 18, 2024 12:43:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "git:/c%3A/Users/Niklas/Studium/Semester6/SE/Minesweeper/src/main/scala/de/htwg/se/minesweeper/Minesweeper.scala?%7B%22path%22%3A%22c%3A%5C%5CUsers%5C%5CNiklas%5C%5CStudium%5C%5CSemester6%5C%5CSE%5C%5CMinesweeper%5C%5Csrc%5C%5Cmain%5C%5Cscala%5C%5Cde%5C%5Chtwg%5C%5Cse%5C%5Cminesweeper%5C%5CMinesweeper.scala%22%2C%22ref%22%3A%22%22%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "git" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:187)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:773)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:770)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:698)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+2024.10.18 12:43:47 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:43:48 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:43:49 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:43:49 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:43:51 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:43:56 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:43:56 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:44:02 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:44:03 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:44:03 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:44:04 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:44:04 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:44:05 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:44:05 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:44:06 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:44:07 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:44:07 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:44:07 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:44:08 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:44:08 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:44:08 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:44:09 WARN  no build target for: C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala
+2024.10.18 12:44:09 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:44:09 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:44:16 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:44:26 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:44:27 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:44:27 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:44:29 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:44:29 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:44:29 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:44:29 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:44:31 WARN  no build target for: C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala
+2024.10.18 12:44:31 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:44:31 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:45:38 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:49:54 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:49:56 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:49:56 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:49:56 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:49:57 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:49:59 WARN  no build target for: C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala
+2024.10.18 12:49:59 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:49:59 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:52:15 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:52:17 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:52:17 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:52:23 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:52:23 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:52:23 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:52:24 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:52:24 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:52:24 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:52:25 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:52:25 WARN  no build target for: C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala
+2024.10.18 12:52:25 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.18 12:52:25 INFO  no build target found for C:\Users\Niklas\Studium\Semester6\SE\Minesweeper\src\main\scala\de\htwg\se\minesweeper\Minesweeper.scala. Using presentation compiler with project's scala-library version: 3.3.3
